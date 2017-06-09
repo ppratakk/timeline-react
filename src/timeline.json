@@ -1,0 +1,28 @@
+{
+    "header": {
+        "username": "Ppratakk"
+    },
+    "work": [
+        {
+            "company":"DSTWS",
+            "label": "Programmer",
+            "picture": "./company.jpg",
+            "phone": "0403933281",
+            "website": "http://google.com",
+            "team": "ebill team",
+            "startwork": "02/2016",
+            "endwork": "Present"
+        },
+        {
+            "company":"eSynergy",
+            "label": "System Developer",
+            "picture": "./company.jpg",
+            "phone": "0403933281",
+            "website": "http://google.com",
+            "team": "JFM",
+            "startwork": "05/2014",
+            "endwork": "01/2016"
+        }
+        
+    ]
+}
